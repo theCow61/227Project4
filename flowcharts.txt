@@ -1,0 +1,5 @@
+Flowchart 1 - WORKS
+
+Flowchart 2 - DOES NOT WORK - A 4 ounce package should be 1.57 instaid is 1.1
+
+Flowchart 3 - WORKS
